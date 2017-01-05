@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Page Ryslène</title>
+	<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1>Bienvenue sur la page Ryslène !</h1>
+	
+	<h2 class="introduction">Retrouvez tout ce que vous avez toujours voulu savoir sur notre incroyable et formidable collègue qu'est <strong>Ryslène</strong><br />
+	</h2>
+	
+<br>
+	
+	<h2> Petit CV</h2>
+	
+	<h3>Informations générales</h3>
+			<ul>
+				<li>Ryslène "Riri" Zmr (avec les temps qui court, on va éviter de donner le nom complet)</li>
+				<li>On ne dit plus l'âge d'une femme passé les 25 ans</li>
+				<li>Esclave auto entrepreneuse</li>
+				<li>A peur des... Rho ça va, détends-toi, je vais pas le dire u_u</li>
+			</ul>
+	
+<br>
+	
+	<h3>Citations favorites</h3>
+			<ul>
+				<li>Tu va finir en prison.</li>
+				<li>peuchère.</li>
+				<li>Mais il est fou !</li>
+			</ul>
+<br>
+
+	<h3>Ses inspirations</h3>
+			<ul>
+				<li>Vincent Cassel.</li>
+				<li>Vincent Cassel.</li>
+				<li>Vincent Cassel.</li>
+				<li>Kristen Stewart.</li>
+			</ul>
+		<p> Maintenant que nous avons cerné la personne, nous allons découvrir ce qui la fait rire.</p>
+		<p> 
+			Son petit copain :
+			<br>
+			<br>
+			<img src="https://img.pr0gramm.com/2017/01/05/67352176c429f945.jpg" alt=tatouage />
+		</p>
+		<p>
+			Le genre de truc qu'elle regarde au bureau
+			<br>
+			<Video autoplay loop muted="" controls>
+			<source src="https://vid.pr0gramm.com/2017/01/03/f31eab3ccb133943.mp4" alt=star wars language />
+			</video>
+		</p>
+		<p>
+			Son vélo.
+			<br>
+			<img src="https://img.pr0gramm.com/2016/12/29/c25593b3a53f32f9.jpg" alt=vélo />
+		</p>
+			
+	<h2>Fun Facts</h2>
+		<p>
+		Aujourd'hui, Ryslène a fait une découverte <strong>capitale</strong>: nous avons un os dans le cou et plus il est haut moins tu as de double menton. Nous voilà aujourd'hui tous un peu plus éclairé qu'il y a 2 minutes.
+		</p>
+		
+</body>
+</html>
