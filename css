@@ -1,0 +1,31 @@
+body
+{
+	background-image: url("http://image.noelshack.com/fichiers/2015/36/1441214579-11958067-10200720496530089-154756022782584114-o.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: white;
+	
+}
+
+h1, .introduction
+{
+	text-align: center;
+
+}
+
+
+
+.introduction
+{
+    color: orange;
+}
+
+p
+{
+	font-family: Verdana, "arial black";
+	background-color: rgba(0,0,0,0.5);	
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	text-align: center;
+	
+}
